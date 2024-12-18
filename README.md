@@ -28,6 +28,8 @@
     <img alt="Jquery" src="https://img.shields.io/badge/JQuery%20-%2314354C.svg?logo=jquery&logoColor=white">
   &emsp;
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  &emsp;
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-blueviolet?logo=sharp&logoColor=black"/>
 </p>
 
 
@@ -60,6 +62,8 @@
     <img alt="Express" src="https://img.shields.io/badge/Express%20-%23430098.svg?logo=express&logoColor=white">  
   &emsp;
     <img alt="Mongoose" src ="https://img.shields.io/badge/Mongoose-%23316192.svg?logo=mongoose&logoColor=white">
+  &emsp;
+    <img alt="Dotnet Core" src ="https://img.shields.io/badge/.Net-blueviolet?logo=dotnet&logoColor=black">
  </p>
 
  ### 👉 Software & Tools
